@@ -21,7 +21,7 @@
 ### ✅ Laravel API
 
 ```bash
-git clone https://github.com/your-username/achnahiya-api.git
+git clone https://github.com/RACHIDYAYA/achnahiya-api.git
 cd achnahiya-api
 composer install
 cp .env.example .env
